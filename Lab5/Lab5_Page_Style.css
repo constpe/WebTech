@@ -1,0 +1,18 @@
+body {
+    background-color: #e0ffb7;
+}
+
+#query_area {
+    left: 1%;
+    width: 99%;
+    color: #9446c6;
+    resize: none;
+}
+
+#iterations_input {
+    left: 1%;
+}
+
+#error {
+    color: red;
+}

@@ -1,0 +1,49 @@
+#manager {
+    border: solid 1px black;
+    border-radius: 8px;
+    height: 100%;
+}
+
+#input {
+    position: relative;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    height: 50%;
+    background-color: #cedada;
+}
+
+#form {
+    position: relative;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+#select_info {
+    color: #b04831;
+}
+
+#button {
+    position: relative;
+    width: 10%;
+    height: 33%;
+    border: none;
+    background-color: #b04831;
+    color: #ffffff;
+}
+
+#button:hover {
+    color: #cacd6d;
+}
+
+.eng_text {
+    color: blue;
+}
+
+.rus_text {
+    color: red;
+}
+
+.num_text {
+    color: green;
+}

@@ -1,0 +1,14 @@
+html {
+    background-color: #e4e2d8;
+}
+#view {
+    padding: 1%;
+    border: solid 1.5px black;
+    border-radius: 8px;
+    background-color: beige;
+    position: relative;
+}
+
+#res:hover {
+    color: red;
+}
